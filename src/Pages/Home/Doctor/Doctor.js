@@ -8,6 +8,7 @@ const Doctor = ({ doctor }) => {
             <img className="img-fluid rounded" src={img} alt="" />
             <h3>{name}</h3>
             <h5>{expertize}</h5>
+            <button className="btn btn-primary mb-2">Book {expertize} : {name}</button>
         </div>
     );
 };
