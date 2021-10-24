@@ -1,0 +1,13 @@
+.service{
+    background-color: rgb(235, 224, 245);
+    border-radius: 20px;
+}
+
+.service img{
+width: 100px;
+height: 100px;
+}
+
+h3{
+    color: rgb(27, 85, 194);
+}

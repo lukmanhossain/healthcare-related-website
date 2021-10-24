@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Diagnostics",
+        "id": 1,
+        "img": "https://i.ibb.co/qmNncpL/1.png",
+        "description": "MedDoctors Are A Medical And Health Department Provider Institutions. Suitable For Healthcare, Medic."
+    },
+    {
+        "name": "Treatment",
+        "id": 2,
+        "img": "https://i.ibb.co/7SY2Rx1/2.png",
+        "description": "CARE Hospitals has over a decade’s expertise in diagnosing and managing liver diseases. The medical ."
+    },
+    {
+        "name": "Surgery",
+        "id": 3,
+        "img": "https://i.ibb.co/z5mV7bp/3.png",
+        "description": "CARE Hospitals has over a decade’s expertise in diagnosing and managing liver diseases. The medical ."
+    },
+    {
+        "name": "Emergency",
+        "id": 4,
+        "img": "https://i.ibb.co/yR71dQc/4.png",
+        "description": "MedDoctors Are A Medical And Health Department Provider Institutions. Suitable For Healthcare, Medic."
+    },
+    {
+        "name": "Vaccine",
+        "id": 5,
+        "img": "https://i.ibb.co/x8vc6wW/5.png",
+        "description": "CARE Hospitals has over a decade’s expertise in diagnosing and managing liver diseases. The medical ."
+    },
+    {
+        "name": "Doctor Checkup",
+        "id": 6,
+        "img": "https://i.ibb.co/r72RpZQ/6.png",
+        "description": "MedDoctors Are A Medical And Health Department Provider Institutions. Suitable For Healthcare, Medic."
+    }
+]
