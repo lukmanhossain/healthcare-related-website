@@ -1,4 +1,5 @@
 .form-container{
     background-color: rgb(252, 248, 235);
+    border: 1px solid rgb(185, 172, 172);
     border-radius: 20px;
 }
