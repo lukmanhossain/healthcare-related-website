@@ -10,7 +10,7 @@ const Service = ({ service }) => {
             <h3 className="p-2">{name}</h3>
             <p className="p-2">{description}</p>
             <Link to={`/knowmore/${id}`}>
-                <button className="btn btn-primary mb-2">Know More About : {name}</button>
+                <button className="btn btn-primary mb-2">Click here to View Details</button>
             </Link>
         </div>
     );
