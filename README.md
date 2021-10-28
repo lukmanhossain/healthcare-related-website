@@ -1,8 +1,11 @@
-# Project Name: Health Care Hospital
+# Project Name: 
+Health Care Hospital Ltd.
 
-# Live Site Link: https://health-care-hospital-ltd.netlify.app
+# Live Site Link:
+ https://health-care-hospital-ltd.netlify.app
 
-# Description: This website is based on our health care related. Everyone wants to lead a happy life with healthy. So if someone is ill and wants to heal their body they should go to hospital. This website helps to take a proper knowledge when they wants to know about this Hospital Profile. As like their services, Professional doctor, all others activitys and so on.
+# Description: 
+This website is based on our health care related. Everyone wants to lead a happy life with healthy. So if someone is ill and wants to heal their body they should go to hospital. This website helps to take a proper knowledge when they wants to know about this Hospital Profile. As like their services, Professional doctor, all others activitys and so on.
 
 # Features and functionality:
   * Easyly understand Our Services.
